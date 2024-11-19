@@ -1,0 +1,32 @@
+input{
+    width : 350px;
+    height : 40px;
+    
+}
+
+button{
+    width : 360px;
+    height : 42px;
+    background-color : rgb(60, 60, 253);
+    color : white;
+    font-size: large;
+    border: none;
+    border-radius:5px;
+}
+
+#tag{
+    border-radius:10px;
+    height:300px;
+    width:380px;
+    background-color: white;
+    margin-top:-60px;
+    
+    
+}
+img{
+    margin-top:-40px;
+}
+a:hover{
+    text-decoration: underline;
+}
+
